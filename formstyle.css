@@ -1,0 +1,50 @@
+body{
+    background-image: url("driver_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+form {
+    border: 1px black solid;
+    width: 40%;
+    margin-left: 55%;
+    margin-top: 5%;
+    padding:10px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    opacity: .7;
+    
+}
+label, input{
+    margin:15px;
+    padding: 5px;
+    border-radius: 7px;
+    width: 80%;
+    
+}
+input{
+    border:2px solid;
+    margin-left:15%;
+}
+button{
+    background-color: green;
+    font-size: 20px;
+    width: 70%;
+    border-radius: 10px;
+    border:none;
+    margin-left: 20%;
+    color:whitesmoke;
+}
+label{
+    color:black;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+button a:hover{
+    color: whitesmoke;
+}
+a:hover{
+    font-size: 0.9em;
+}
