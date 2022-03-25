@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav.top_nav_bar{
+    background-color: black;
+    color: white;
+    height: 70px;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    margin-left: 65%;
+    
+}
+nav ul li{
+    display: flex;
+    margin-top: -10px;
+    padding: 40px;
+    float: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+tr#top {
+    background-color: green;
+    border-radius: 10px;
+    border: none;
+}
+th{ 
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+table{
+    margin-left: 25%;
+    margin-top: 8%;
+}
+th,td{
+    padding: 10px;
+    margin: 0;
+    
+}
